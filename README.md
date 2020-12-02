@@ -1,5 +1,5 @@
 # My-Resources
-List of resources that I use for Web and Mobile development 
+List of resources that I use for Web and Mobile development with HTML, CSS and JS 
 
 ## Design
  
@@ -9,7 +9,26 @@ Website | Description |
 [CSS Fonts](https://www.cssfontstack.com/) | A complete collection of web safe CSS font stacks. |
 [Color Picker Tool](https://www.0to255.com/) | 0to255 is a color tool that makes it easy to lighten and darken colors. |
 
+### Stock Photos and Free Icons
+
+Website | Description |
+--- | --- |
+[Pexels](https://www.pexels.com/) | Free stock photos & videos shared by talented creators. |
+[LibreStock](https://librestock.com/) | Free stock photo search engine. |
+[Unsplash](https://unsplash.com/) | The internet’s source of freely-usable images. |
+[Pixabay](https://pixabay.com/) | Stunning free images & royalty free stock. |
+[Flaticon](https://www.flaticon.com/) | Free vector icons - SVG, PSD, PNG, EPS |
+
+### Photo, Icon, Favicon Editing Tools
+
+Website | Description |
+--- | --- |
+[Favicon](https://www.favicon.cc/) | favicon.ico generator |
+
+
+
 ## Important Videos
+
 ### YouTube Tutorials on HTML, CSS and JS
 
 Website | Description |
@@ -17,12 +36,14 @@ Website | Description |
 [Learn Flexbox In 20 Minutes](https://www.youtube.com/watch?v=FTlczfR82mQ&t=964s) | How to build modern responsive layouts using flexbox and all of its properties. |
 [CSS Grid Tutorial](https://www.youtube.com/watch?v=EFafSYg-PkI&t=1s) | How grid works. We can use css grid to structure and position our websites with ease. |
 
+
 ### YouTube Coding Exercises - HTML, CSS and JS
 
 Website | Description |
 --- | --- |
 [10 Website Designs in 1 Hour - Design Challenge](https://www.youtube.com/watch?v=lf_vL-TNOEk&t=18s) | Design 10 websites in 1 hour with Figma. |
 [Building 10 Websites - From Design to HTML and CSS - Coding Challenge](https://www.youtube.com/watch?v=Rz-rey4Q1bw) | In this video, the Figma designs are converted into actual Websites using HTML, CSS, and JavaScript. |
+
 
 ## Tools
 
