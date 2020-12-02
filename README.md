@@ -24,6 +24,7 @@ Website | Description |
 Website | Description |
 --- | --- |
 [Favicon](https://www.favicon.cc/) | favicon.ico generator |
+[crop-circle](https://crop-circle.imageonline.co/) | Crop a circle in image online - free tool. |
 
 
 
