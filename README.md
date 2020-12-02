@@ -5,7 +5,7 @@ List of resources that I use for Web and Mobile development
  
 Website | Description |
 --- | --- |
-[Color Hunt](https://colorhunt.co/) | Trndy Color Palletes |
+[Color Hunt](https://colorhunt.co/) | Color Palettes for Designers |
 To | *__Look__* |
 
 ## Important Videos
