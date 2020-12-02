@@ -23,3 +23,9 @@ Website | Description |
 [10 Website Designs in 1 Hour - Design Challenge](https://www.youtube.com/watch?v=lf_vL-TNOEk&t=18s) | Design 10 websites in 1 hour with Figma. |
 [Building 10 Websites - From Design to HTML and CSS - Coding Challenge](https://www.youtube.com/watch?v=Rz-rey4Q1bw) | In this video, the Figma designs are converted into actual Websites using HTML, CSS, and JavaScript |
 
+## Cheat-Sheets
+
+About | Description |
+--- | --- |
+[CSS Selectors](https://drive.google.com/file/d/1bULsiOOpuYE3-GVMWWBy6GGP703L_psE/view?usp=sharing) | CSS Selectors Cheat-Sheet |
+
