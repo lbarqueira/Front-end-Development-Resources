@@ -14,7 +14,7 @@ Website | Description |
 Website | Description |
 --- | --- |
 [Learn Flexbox In 20 Minutes](https://www.youtube.com/watch?v=FTlczfR82mQ&t=964s) | How to build modern responsive layouts using flexbox and all of its properties. |
-[Learn CSS Grid in 20 Minutes](https://www.youtube.com/watch?v=9zBsdzdE4sM) | How grid differs from flexbox, how grid works, and the different properties. |
+[CSS Grid Tutorial](https://www.youtube.com/watch?v=EFafSYg-PkI&t=1s) | How grid works. We can use css grid to structure and position our websites with ease. |
 
 ### YouTube Coding Exercises - HTML, CSS and JS
 
