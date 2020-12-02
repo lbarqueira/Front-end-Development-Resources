@@ -7,6 +7,7 @@ Website | Description |
 --- | --- |
 [Color Hunt](https://colorhunt.co/) | Color Palettes for Designers. |
 [CSS Fonts](https://www.cssfontstack.com/) | A complete collection of web safe CSS font stacks. |
+[Color Picker Tool](https://www.0to255.com/) | 0to255 is a color tool that makes it easy to lighten and darken colors. |
 
 ## Important Videos
 ### YouTube Tutorials on HTML, CSS and JS
