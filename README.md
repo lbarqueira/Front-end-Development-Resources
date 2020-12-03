@@ -2,8 +2,8 @@
 List of resources that I use for Web and Mobile development with HTML, CSS and JS 
 
 ## Projects: 
-https://codepen.io/
-https://stackblitz.com/@lbarqueira
+https://codepen.io/  
+https://stackblitz.com/@lbarqueira  
 https://www.codeply.com/u/lbarqueira
 
 
