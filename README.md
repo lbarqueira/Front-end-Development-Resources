@@ -85,3 +85,9 @@ About | Description |
 --- | --- |
 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) | Comprehensive guide to CSS flexbox layout. |
 [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) | Comprehensive guide to CSS Grid layout. |
+
+## Web & Mobile Tools
+
+About | Description |
+--- | --- |
+[Is your web page mobile-friendly?](https://search.google.com/test/mobile-friendly) | Mobile-Friendly Test. |
