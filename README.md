@@ -8,12 +8,22 @@ https://www.codeply.com/u/lbarqueira
 
 
 ## Design
- 
+
+### Inspiration
+
+Website | Description |
+--- | --- |
+[Dribbble](https://dribbble.com/) | Dribbble is the world’s leading community for creatives to share. |
+
+
+### Colors & Fonts
+
 Website | Description |
 --- | --- |
 [Color Hunt](https://colorhunt.co/) | Color Palettes for Designers. |
 [CSS Fonts](https://www.cssfontstack.com/) | A complete collection of web safe CSS font stacks. |
 [Color Picker Tool](https://www.0to255.com/) | 0to255 is a color tool that makes it easy to lighten and darken colors. |
+
 
 ### Stock Photos and Free Icons
 
@@ -24,6 +34,7 @@ Website | Description |
 [Unsplash](https://unsplash.com/) | The internet’s source of freely-usable images. |
 [Pixabay](https://pixabay.com/) | Stunning free images & royalty free stock. |
 [Flaticon](https://www.flaticon.com/) | Free vector icons - SVG, PSD, PNG, EPS |
+
 
 ### Photo, Icon, Favicon Editing Tools
 
