@@ -34,7 +34,9 @@ Website | Description |
 [LibreStock](https://librestock.com/) | Free stock photo search engine. |
 [Unsplash](https://unsplash.com/) | The internet’s source of freely-usable images. |
 [Pixabay](https://pixabay.com/) | Stunning free images & royalty free stock. |
-[Flaticon](https://www.flaticon.com/) | Free vector icons - SVG, PSD, PNG, EPS |
+[Flaticon](https://www.flaticon.com/) | Free vector icons - SVG, PSD, PNG, EPS. |
+[Icons8](https://icons8.com/) | Free icons, stock photos, vectors. |
+[Vecteezy](https://www.vecteezy.com/) | Download free vector art, stock photos & videos. |
 
 
 ### Photo, Icon, Favicon Editing Tools
