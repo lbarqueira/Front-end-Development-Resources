@@ -21,6 +21,7 @@ Website | Description |
 --- | --- |
 [Dribbble](https://dribbble.com/) | Dribbble is the world’s leading community for creatives to share. |
 [Awwwards](https://www.awwwards.com/websites/com/) | The awards for design, creativity and innovation on the Internet. |
+[Collect UI](https://collectui.com/) | Daily inspiration collected from daily ui archive and beyond. |
 
 
 ### Colors & Fonts
@@ -53,6 +54,11 @@ Website | Description |
 [Favicon](https://www.favicon.cc/) | favicon.ico generator |
 [crop-circle](https://crop-circle.imageonline.co/) | Crop a circle in image online - free tool. |
 
+### Tools
+Website | Description |
+--- | --- |
+[Figma](https://www.figma.com/) | Online graphic design tool. |
+[Canva](https://www.canva.com/en_gb/) | Build a design. |
 
 
 ## HTML, CSS, JS (Coding)
