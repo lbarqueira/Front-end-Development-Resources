@@ -95,3 +95,4 @@ About | Description |
 [Is your web page mobile-friendly?](https://search.google.com/test/mobile-friendly) | Mobile-Friendly Test. |
 [Clean CSS](https://www.cleancss.com/) | Format and Minify more than just CSS. |
 [mydevice.io](https://www.mydevice.io/#) | My device screen metrics, my browser features, compare devices. |
+[Can I use](https://caniuse.com/) | Handy charts showing which features are compatible with which browser. |
