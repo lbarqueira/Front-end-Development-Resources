@@ -70,6 +70,7 @@ Website | Description |
 --- | --- |
 [Learn Flexbox In 20 Minutes](https://www.youtube.com/watch?v=FTlczfR82mQ&t=964s) | How to build modern responsive layouts using flexbox and all of its properties. |
 [CSS Grid Tutorial](https://www.youtube.com/watch?v=EFafSYg-PkI&t=1s) | How grid works. We can use css grid to structure and position our websites with ease. |
+[Responsive Navbar Tutorial](https://www.youtube.com/watch?v=At4B7A4GOPg&t=17s) | Tutorial by Web Dev Simplified about creating a simple __responsive navigation menu__. |
 
 ### Coding Exercises - HTML, CSS and JS
 
