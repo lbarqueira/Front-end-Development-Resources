@@ -1,18 +1,18 @@
 # My-Resources
 List of resources that I use for Web & Mobile design, and development with HTML, CSS and JS 
 
-## Projects: 
+## Projects 
 https://codepen.io/barqueira/  
 https://stackblitz.com/@lbarqueira  
 https://www.codeply.com/u/lbarqueira  
 https://github.com/lbarqueira/ui_components
 
 
-## Courses
+## Courses (Web Design, HTML, CSS, JS)
 
 Website | Description |
 --- | --- |
-[The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.ROW_ti.8322&utm_content=deal4584&utm_term=_._ag_80385735315_._ad_437497334061_._kw__._de_c_._dm__._pl__._ti_dsa-774930035449_._li_1011736_._pd__._&matchtype=b&gclid=Cj0KCQiA2af-BRDzARIsAIVQUOf1WP081qy9tTRgt5YbISrahkVfluAiBQz6a7tzMg8HWtbUndB4ebsaAu0lEALw_wcB) | Section 8: Web Design School - Create a Website that People Love. Web Design Principles: Color Theory, Typography, User Interface (UI) design, User Experience (UX) Design. |
+[The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.ROW_ti.8322&utm_content=deal4584&utm_term=_._ag_80385735315_._ad_437497334061_._kw__._de_c_._dm__._pl__._ti_dsa-774930035449_._li_1011736_._pd__._&matchtype=b&gclid=Cj0KCQiA2af-BRDzARIsAIVQUOf1WP081qy9tTRgt5YbISrahkVfluAiBQz6a7tzMg8HWtbUndB4ebsaAu0lEALw_wcB) | Web Design Principles: Color Theory, Typography, User Interface (UI) design, User Experience (UX) Design. Front-end Development, Back-end Development, Databases. |
 [Web Development Course Resources List](https://www.appbrewery.co/p/web-development-course-resources/) | Resource list for The Complete 2020 Web Development Bootcamp. |
 [Build and deploy your portfolio](https://scrimba.com/learn/portfolio) | ...with Kevin Powell. Course level: Intermediate. [Alternative Link](https://www.youtube.com/watch?v=_xkSvufmjEs&t=358s) |
 
@@ -64,9 +64,9 @@ Website | Description |
 [Canva](https://www.canva.com/en_gb/) | Build a design. |
 
 
-## HTML, CSS, JS (Coding)
+## HTML, CSS, JS ... web design
 
-### Tutorials on HTML, CSS and JS
+### Youtube tutorials - HTML, CSS, JS ... web design
 
 Website | Description |
 --- | --- |
@@ -75,12 +75,13 @@ Website | Description |
 [Responsive Navbar Tutorial](https://www.youtube.com/watch?v=At4B7A4GOPg&t=17s) | Tutorial by __Web Dev Simplified__ about creating a simple __responsive navigation menu__. |
 [Responsive Navigation Bar Tutorial](https://www.youtube.com/watch?v=gXkqy0b4M5g&t=15s) | Tutorial by __Dev Ed__. Making a responsive navigation bar: media queries, keyframe animations, basic javascript toggling, building a burger menu. |
 
-### Coding Exercises - HTML, CSS and JS
+### Coding Exercises - HTML, CSS, JS ... web design
 
 Website | Description |
 --- | --- |
 [10 Website Designs in 1 Hour - Design Challenge](https://www.youtube.com/watch?v=lf_vL-TNOEk&t=18s) | Design 10 websites in 1 hour with Figma. |
 [Building 10 Websites - From Design to HTML and CSS - Coding Challenge](https://www.youtube.com/watch?v=Rz-rey4Q1bw) | In this video, the Figma designs are converted into actual Websites using HTML, CSS, and JavaScript. |
+[Designed A Website Using Only 1 COLOR](https://www.youtube.com/watch?v=uAlEU-AilNE) | Figma UI Design for the One Color UI Responsive Website Tutorial (HTML5 & CSS3). |
 [Build One Color UI Responsive Website Tutorial](https://www.youtube.com/watch?v=2IjyqauKumE) | One Color UI Responsive Website Tutorial (HTML5 & CSS3). |
 
 ### Tools
@@ -90,7 +91,7 @@ Website | Description |
 [CSS Button Generator](https://css3buttongenerator.com/) | Copy the code for a CSS Button you build. |
 [CSS Grid Generator - Layoutit!](https://grid.layoutit.com/) | CSS Grid generator from Layoutit! |
 
-### Cheat-Sheets
+## Cheat-Sheets
 
 About | Description |
 --- | --- |
@@ -98,7 +99,7 @@ About | Description |
 [Flex Malven](https://flexbox.malven.co/) | A flexbox cheatsheet to reference when working with flexbox. |
 [Grid Malven](https://grid.malven.co/) | A css grid cheatsheet to reference when creating a css grid. |
 
-### Articles
+## Articles
 
 About | Description |
 --- | --- |
