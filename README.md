@@ -75,7 +75,7 @@ Website | Description | Scope |
 [CSS Grid Tutorial](https://www.youtube.com/watch?v=EFafSYg-PkI&t=1s) | Tutorial by __Dev Ed__. How grid works. We can use css grid to structure and position our websites with ease. | CSS |
 [Responsive Navbar Tutorial](https://www.youtube.com/watch?v=At4B7A4GOPg&t=17s) | Tutorial by __Web Dev Simplified__ about creating a simple __responsive navigation menu__. | CSS & JS |
 [Responsive Navigation Bar Tutorial](https://www.youtube.com/watch?v=gXkqy0b4M5g&t=15s) | Tutorial by __Dev Ed__. Making a responsive navigation bar: media queries, keyframe animations, basic javascript toggling, building a burger menu. | CSS & JS |
-[Learn DOM Manipulation In 18 Minutes](https://www.youtube.com/watch?v=y17RuWkWdn8&t=325s) | Tutorial by __Web Dev Simplified__ about the 14 most important DOM manipulation methods that you need to know. Creating elements, Adding elements, Modifying data attributes, Removing elements | JS |
+[Learn DOM Manipulation In 18 Minutes](https://www.youtube.com/watch?v=y17RuWkWdn8&t=325s) | Tutorial by __Web Dev Simplified__ about the 14 most important DOM manipulation methods that you need to know. Creating elements, adding elements, modifying data attributes, removing elements. | JS |
 
 ### Coding Exercises - HTML, CSS, JS ... web design
 
