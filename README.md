@@ -85,7 +85,7 @@ Website | Description | Scope |
 [Building 10 Websites - From Design to HTML and CSS - Coding Challenge](https://www.youtube.com/watch?v=Rz-rey4Q1bw) | In this video, the Figma designs are converted into actual Websites using HTML, CSS, and JavaScript. | HTML, CSS, JS |
 [Designed A Website Using Only 1 COLOR](https://www.youtube.com/watch?v=uAlEU-AilNE) | Figma UI Design for the One Color UI Responsive Website Tutorial (HTML5 & CSS3). | Figma |
 [Build One Color UI Responsive Website Tutorial](https://www.youtube.com/watch?v=2IjyqauKumE) | One Color UI Responsive Website Tutorial (HTML5 & CSS3). | HTML, CSS, JS |
-[Design A Website In Under 1 Hour With Figma](https://www.youtube.com/watch?v=FK4YusHIIj0&feature=emb_logo) | Full website design from scratch video using figma. [Images](https://github.com/WebDevSimplified/Spotify-Landing-Page-Redesign/tree/master/images) | Figama |
+[Design A Website In Under 1 Hour With Figma](https://www.youtube.com/watch?v=FK4YusHIIj0&feature=emb_logo) | Full website design from scratch video using figma. [Images](https://github.com/WebDevSimplified/Spotify-Landing-Page-Redesign/tree/master/images) | Figma |
 [Learn How To Build A Website In 1 Hour!](https://www.youtube.com/watch?v=RZ-Oe4_Ew7g) | Code for this video: https://github.com/WebDevSimplified/Spotify-Landing-Page-Redesign | HTML, CSS, JS |
 
 
