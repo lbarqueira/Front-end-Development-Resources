@@ -109,10 +109,11 @@ About | Description |
 
 ## Articles
 
-About | Description |
+About(Website) | Description |
 --- | --- |
 [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) | Comprehensive guide to CSS flexbox layout. |
 [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/) | Comprehensive guide to CSS Grid layout. |
+[Grid by Example](https://gridbyexample.com/) | Everything you need to learn CSS Grid Layout. |
 
 ## Others...
 
