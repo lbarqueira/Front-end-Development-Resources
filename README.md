@@ -1,7 +1,8 @@
 # My-Resources
 List of resources that I use for Web & Mobile design, and development with HTML, CSS and JS 
 
-## Projects 
+## Projects
+https://gist.github.com/lbarqueira  
 https://codepen.io/barqueira/  
 https://stackblitz.com/@lbarqueira  
 https://www.codeply.com/u/lbarqueira  
