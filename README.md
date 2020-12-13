@@ -127,3 +127,4 @@ Website | Description |
 [mydevice.io](https://www.mydevice.io/#) | My device screen metrics, my browser features, compare devices. |
 [Can I use](https://caniuse.com/) | Handy charts showing which features are compatible with which browser. |
 [Nodesign.dev](https://nodesign.dev/) | A collection of tools for developers who have little to no artistic talent. |
+[Frontend Mentor](https://www.frontendmentor.io/resources) | Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs. |
