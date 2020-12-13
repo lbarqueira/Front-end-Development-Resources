@@ -128,3 +128,4 @@ Website | Description |
 [Can I use](https://caniuse.com/) | Handy charts showing which features are compatible with which browser. |
 [Nodesign.dev](https://nodesign.dev/) | A collection of tools for developers who have little to no artistic talent. |
 [Frontend Mentor](https://www.frontendmentor.io/resources) | Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs. |
+[Lorem Ipsum](https://loremipsum.io/) | Lorem Ipsum – Generator, Origins and Meaning. |
