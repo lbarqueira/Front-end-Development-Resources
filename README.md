@@ -92,6 +92,7 @@ Website | Description | Scope |
 [Build One Color UI Responsive Website Tutorial](https://www.youtube.com/watch?v=2IjyqauKumE) | One Color UI Responsive Website Tutorial (HTML5 & CSS3). | HTML, CSS, JS |
 [Design A Website In Under 1 Hour With Figma](https://www.youtube.com/watch?v=FK4YusHIIj0&feature=emb_logo) | Full website design from scratch video using figma. [Images](https://github.com/WebDevSimplified/Spotify-Landing-Page-Redesign/tree/master/images) | Figma |
 [Learn How To Build A Website In 1 Hour!](https://www.youtube.com/watch?v=RZ-Oe4_Ew7g) | Code for this video: https://github.com/WebDevSimplified/Spotify-Landing-Page-Redesign | HTML, CSS, JS |
+[Frontend Mentor](https://www.frontendmentor.io/resources) | Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs. | HTML, CSS, JS |
 
 
 ### Tools
@@ -127,5 +128,5 @@ Website | Description |
 [mydevice.io](https://www.mydevice.io/#) | My device screen metrics, my browser features, compare devices. |
 [Can I use](https://caniuse.com/) | Handy charts showing which features are compatible with which browser. |
 [Nodesign.dev](https://nodesign.dev/) | A collection of tools for developers who have little to no artistic talent. |
-[Frontend Mentor](https://www.frontendmentor.io/resources) | Solve real-world HTML, CSS and JavaScript challenges whilst working to professional designs. |
 [Lorem Ipsum](https://loremipsum.io/) | Lorem Ipsum – Generator, Origins and Meaning. |
+[BEM](http://getbem.com/) | BEM — Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development. |
