@@ -130,3 +130,4 @@ Website | Description |
 [Nodesign.dev](https://nodesign.dev/) | A collection of tools for developers who have little to no artistic talent. |
 [Lorem Ipsum](https://loremipsum.io/) | Lorem Ipsum – Generator, Origins and Meaning. |
 [BEM](http://getbem.com/) | BEM — Block Element Modifier is a methodology that helps you to create reusable components and code sharing in front-end development. |
+[free-for.dev](https://free-for.dev/#/) | This is a list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers. |
