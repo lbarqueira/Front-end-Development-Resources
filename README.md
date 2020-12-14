@@ -1,4 +1,4 @@
-# My-Resources
+# Front-end Development Resources
 List of resources that I use for Web & Mobile design, and development with HTML, CSS and JS 
 
 ## Projects
