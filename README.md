@@ -8,6 +8,13 @@ https://stackblitz.com/@lbarqueira
 https://www.codeply.com/u/lbarqueira  
 https://github.com/lbarqueira/ui_components
 
+## Introduction
+
+Website | Description |
+--- | --- |
+[Front-end Developer Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/) | This is a guide that everyone can use to learn about the practice of front-end development. It broadly outlines and discusses the practice of front-end engineering: how to learn it and what tools are used when practicing it in 2019. |
+[How to Learn Web Development in 2021](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/) | Web Developer Roadmap. How to Learn Web Development in 2021. |
+
 
 ## Courses (Web Design, HTML, CSS, JS)
 
