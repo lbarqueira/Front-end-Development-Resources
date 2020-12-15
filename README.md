@@ -1,5 +1,5 @@
 # Front-end Development Resources
-List of resources that I use for Web & Mobile design, and development with HTML, CSS and JS 
+List of resources that I use for Web & Mobile __Design__, and __Development__ with HTML, CSS and JS 
 
 ## Projects
 https://gist.github.com/lbarqueira  
@@ -16,10 +16,11 @@ Website | Description |
 [How to Learn Web Development in 2021](https://www.freecodecamp.org/news/how-to-learn-web-dev-in-2021-roadmap/) | Web Developer Roadmap. How to Learn Web Development in 2021. |
 
 
-## Courses (Web Design, HTML, CSS, JS)
+## Courses (UI/UX Design, HTML, CSS, JS)
 
 Website | Description |
 --- | --- |
+[UX masterclass.design](https://uxmasterclass.design/) | This masterclass program aim to help you learn the fundamentals and best practices of UI/UX Design to succeed in this expanding market. |
 [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.ROW_ti.8322&utm_content=deal4584&utm_term=_._ag_80385735315_._ad_437497334061_._kw__._de_c_._dm__._pl__._ti_dsa-774930035449_._li_1011736_._pd__._&matchtype=b&gclid=Cj0KCQiA2af-BRDzARIsAIVQUOf1WP081qy9tTRgt5YbISrahkVfluAiBQz6a7tzMg8HWtbUndB4ebsaAu0lEALw_wcB) | Web Design Principles: Color Theory, Typography, User Interface (UI) design, User Experience (UX) Design. Front-end Development, Back-end Development, Databases. |
 [Web Development Course Resources List](https://www.appbrewery.co/p/web-development-course-resources/) | Resource list for The Complete 2020 Web Development Bootcamp. |
 [Build and deploy your portfolio](https://scrimba.com/learn/portfolio) | ...with Kevin Powell. Course level: Intermediate. [Alternative Link](https://www.youtube.com/watch?v=_xkSvufmjEs&t=358s) |
