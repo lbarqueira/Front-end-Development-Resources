@@ -25,6 +25,7 @@ Website | Description |
 [Web Development Course Resources List](https://www.appbrewery.co/p/web-development-course-resources/) | Resource list for The Complete 2020 Web Development Bootcamp. |
 [Build and deploy your portfolio](https://scrimba.com/learn/portfolio) | ...with Kevin Powell. Course level: Intermediate. [Alternative Link](https://www.youtube.com/watch?v=_xkSvufmjEs&t=358s) |
 [Become a frontend developer with hands-on courses](https://scrimba.com/) | Scrimba is the next-generation platform for learning how to code. Courses cover subjects like HTML, CSS, JavaScript, React, Vue, and more. [Build and deploy your portfolio](https://scrimba.com/learn/portfolio) is one course that I have done. |
+[Frontend Masters](https://frontendmasters.com/) | Advance Your Skills with In-Depth, Modern Front-End Engineering Courses. |
 
 ## Design
 
