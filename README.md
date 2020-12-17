@@ -1,5 +1,5 @@
 # Front-end UI/UX Design and Development Resources
-List of resources that I use for Web & Mobile __UI/UX Design__, and __Development__ with HTML, CSS and JS 
+List of resources that I use for Web & Mobile __UI/UX Design__, and __Front-end Development__ with HTML, CSS and JS 
 
 ## Projects
 https://gist.github.com/lbarqueira  
