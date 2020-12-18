@@ -47,6 +47,7 @@ Website | Description |
 [Color Picker Tool](https://www.0to255.com/) | 0to255 is a color tool that makes it easy to lighten and darken colors. |
 [Adobe Color](https://color.adobe.com/create/color-wheel) | Color wheel, a color palette generator. |
 [CSS Gradient](https://cssgradient.io/) | Free tool that lets you create a gradient background for websites. CSS gradient generator. |
+[CSS Duotone Generator](https://cssduotone.com/) | Create a dutone of a supplied or random image. Effect accomplished in CSS. |
 
 
 ### Stock Photos and Free Icons
